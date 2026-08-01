@@ -63,6 +63,10 @@ The dataset contains **893 laptop records** with the following attributes:
 - Integrate live online datasets.
 - Include sales and customer ratings.
 - Add forecasting using Power BI AI visuals.
+  
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 ##  Developed By
 **Dharani Sri G**
