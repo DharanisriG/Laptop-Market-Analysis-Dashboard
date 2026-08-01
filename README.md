@@ -66,7 +66,7 @@ The dataset contains **893 laptop records** with the following attributes:
   
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ##  Developed By
 **Dharani Sri G**
